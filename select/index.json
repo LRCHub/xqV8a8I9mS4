@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Enough For Me",
+  "base_artist": "GRAHAM",
+  "createdAt": "2026-03-27T19:43:16.317539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Enough For Me",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/01_Good_Enough_For_Me_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That's Enough For Me",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/02_That's_Enough_For_Me_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Still Ain't Enough For Me",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/03_Still_Ain't_Enough_For_Me_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Fake Name Is Good Enough For Me",
+      "artist": "Iron & Wine",
+      "has_synced": false,
+      "path": "select/04_Your_Fake_Name_Is_Good_Enough_For_Me_Iron_&_Wine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Enough for Me",
+      "artist": "Juliana Hatfield",
+      "has_synced": false,
+      "path": "select/05_Good_Enough_for_Me_Juliana_Hatfield.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Enough for Me",
+      "artist": "Bad Chopper",
+      "has_synced": true,
+      "path": "select/06_Good_Enough_for_Me_Bad_Chopper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Enough For Me",
+      "artist": "Bad Chopper (CJ Ramone)",
+      "has_synced": true,
+      "path": "select/07_Good_Enough_For_Me_Bad_Chopper_(CJ_Ramone).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Enough for Me",
+      "artist": "Jessica Harp",
+      "has_synced": true,
+      "path": "select/08_Good_Enough_for_Me_Jessica_Harp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Manana (Is Soon Enough For Me)",
+      "artist": "Peggy Lee",
+      "has_synced": true,
+      "path": "select/09_Manana_(Is_Soon_Enough_For_Me)_Peggy_Lee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's Enough for Me - 9/29/78",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/10_That's_Enough_for_Me_-_9_29_78_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's Enough for Me (9/29/78)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/11_That's_Enough_for_Me_(9_29_78)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "That's Enough for Me (Live At Wembley, 6/21/80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/12_That's_Enough_for_Me_(Live_At_Wembley,_6_21_80)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "That's Enough for Me (Wembley, 6/21/80)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/13_That's_Enough_for_Me_(Wembley,_6_21_80)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "That's Enough For Me (92978)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/14_That's_Enough_For_Me_(92978)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "That's Enough For Me (Wembley, 62180)",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/15_That's_Enough_For_Me_(Wembley,_62180)_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enough For Me",
+      "artist": "GRAHAM",
+      "has_synced": false,
+      "path": "select/pl_01_Enough_For_Me_GRAHAM.txt"
+    }
+  ]
+}
